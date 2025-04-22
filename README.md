@@ -1,6 +1,6 @@
 # 👋 Oi, eu sou a Carol!
 
-Sou desenvolvedora backend focada em .NET, com experiência em arquitetura limpa, APIs REST, autenticação JWT, banco de dados relacional, validações robustas e testes automatizados. Tenho buscado projetos freelance e colaborativos que valorizem boas práticas e entrega com qualidade.
+Sou desenvolvedora backend focada em .NET, com experiência em arquitetura limpa, APIs REST, autenticação JWT, banco de dados relacional, validações robustas e testes automatizados. Tenho buscado projetos que valorizem boas práticas e entrega com qualidade.
 
 ## 💻 Tecnologias principais
 - ASP.NET Core 6+
